@@ -3,7 +3,7 @@
 class MinqueueWithArrayDynamic
 {
 private:
-  int lengthInit = 7;
+  int lengthInit = 9;
   int lengthInitTmp = 1;
   int *arrayDynamic = new int[lengthInit];
   int *arrayDynamicTmp = new int[lengthInitTmp];
@@ -119,7 +119,7 @@ public:
 int main()
 {
   MinqueueWithArrayDynamic minqueue;
-  for (int i = 0; i < 7; i++)
+  for (int i = 0; i < 9; i++)
   {
     int input;
     std::cin >> input;
