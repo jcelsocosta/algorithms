@@ -68,7 +68,6 @@ public:
 
       for (int i = 0; i < lengthInitTmp; i++)
       {
-        // std::cout << "current: " << target << " " << arrayDynamicTmp[i] << std::endl;
         if (target < arrayDynamicTmp[i])
         {
           arrayDynamicTmp[i] = -1;
