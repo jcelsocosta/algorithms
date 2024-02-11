@@ -62,6 +62,8 @@ Sample Input #1:
 
 Sample Output #1:
 
+| Coluna 1 | Coluna 2 |
+|----------|----------|
 | 2        | 9        |
 | 3        | 9        |
 | 3        | 8        |
