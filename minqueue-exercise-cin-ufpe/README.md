@@ -56,3 +56,19 @@ onde:
 
 - L indica o número de elementos que ainda podem ser mínimo (comprimento do array M)
 - I especifica a posição do elemento mínimo na fila (o primeiro elemento ainda na fila está na posição 0, o segundo na posição 1, e assim sucessivamente)
+
+Sample Input #1:
+2671786989 10 10 6
+
+Sample Output #1:
+
+2 9
+3 9
+3 8
+3 7
+2 7
+2 6
+2 5
+2 4
+3 4
+3 4
